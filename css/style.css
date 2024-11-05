@@ -277,6 +277,7 @@ a:focus {
   background-image: url(../images/bg-edit3.png);
   background-size: 100% 100%;
   z-index: 2;
+  overflow: hidden;
 }
 
 /*.slider_section:after {*/
